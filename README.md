@@ -83,7 +83,7 @@ chat-app/
 1. **Clone or obtain the project**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MohemedAmine/chat-app.git
    cd chat-app
    ```
 
